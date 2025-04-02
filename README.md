@@ -4,9 +4,9 @@
 - Enter URL
 - Enter Alias (Short Code)
 - Click Shorten <br>
-  Example: <br>
-    - URL: Google.com <br>
-    - Alias: google
+    Example: <br>
+      - URL: Google.com <br>
+      - Alias: google
 <h2>How to visit shortened URL:</h2>
 - Enter (Domain name)/(Alias) in search bar <br>
   Ex: <a href="https://shorten.rf.gd/google">shorten.rf.gd/google</a> <br>
