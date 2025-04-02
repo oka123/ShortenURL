@@ -3,7 +3,8 @@
 <h2>How to shorten URL:</h2>
 - Enter URL
 - Enter Alias (Short Code)
-- Click Shorten <br>
+- Click Shorten 
+<br>
     Example: <br>
       - URL: Google.com <br>
       - Alias: google
