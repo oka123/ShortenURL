@@ -15,4 +15,4 @@
 ## How to Visit a Shortened URL
 Enter `(Domain Name)/(Alias)` in the search bar.  
 For example: [shorten.rf.gd/google](https://shorten.rf.gd/google)  
-This will redirect you to `google.com`.
+This will redirect you to `google.com`
