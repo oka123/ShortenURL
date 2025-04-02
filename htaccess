@@ -1,0 +1,16 @@
+DirectoryIndex index.php index.html index.htm index2.html
+ErrorDocument 400 /404/
+ErrorDocument 401 /404/
+ErrorDocument 402 /404/
+ErrorDocument 403 /404/
+ErrorDocument 404 /404/
+ErrorDocument 500 /404/
+ErrorDocument 503 /404/
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?code=$1 [L,QSA]
+
+php_value display_errors Off
+php_value date.timezone Asia/Jakarta
