@@ -7,7 +7,7 @@
   Example: <br>
     - URL: Google.com <br>
     - Alias: ggl
-## How to access shortened URL:
+## How to visit shortened URL:
 - Enter (Domain name)/(Alias) in search bar <br>
   Ex: <a href="https://shorten.rf.gd/google">https://shorten.rf.gd/google</a> <br>
   will be redirected to => google.com
