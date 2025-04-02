@@ -26,6 +26,6 @@ This will redirect you to `google.com`
 ## Mobile View
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/130b5a7e-f3ef-40e4-8934-9714492f080f" alt="Mobile View Image" style="height: 50%; width: 50%; max-width: 50%; max-height: 50%;">
-  <img src="https://github.com/user-attachments/assets/6d61fee0-feeb-43b1-b55f-3fb7db4bf087" alt="Mobile View Image" style="height: 50%; width: 50%; max-width: 50%; max-height: 50%;">
+  <img src="https://github.com/user-attachments/assets/130b5a7e-f3ef-40e4-8934-9714492f080f" alt="Mobile View Image" style="height: 50%;">
+  <img src="https://github.com/user-attachments/assets/6d61fee0-feeb-43b1-b55f-3fb7db4bf087" alt="Mobile View Image" style="height: 50%;">
 </div>
