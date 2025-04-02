@@ -2,7 +2,9 @@
 <h2>Demo: <a href="https://shorten.rf.gd">shorten.rf.gd</a></h2>
 <h2>How to shorten URL:</h2>
 - Enter URL
+<br>
 - Enter Alias (Short Code)
+<br>
 - Click Shorten 
 <br>
     Example: <br>
