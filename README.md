@@ -1,18 +1,18 @@
-<h1>Website for shorten long URL</h1>
-<h2>Demo: <a href="https://shorten.rf.gd">shorten.rf.gd</a></h2>
-<h2>How to shorten URL:</h2>
-<pre>
-- Enter URL
-<br>
-- Enter Alias (Short Code)
-<br>
-- Click Shorten 
-<br>
-Example: <br>
-  - URL: Google.com <br>
-  - Alias: google
-</pre>
-<h2>How to visit shortened URL:</h2>
-- Enter (Domain name)/(Alias) in search bar <br>
-  Ex: <a href="https://shorten.rf.gd/google">shorten.rf.gd/google</a> <br>
-  will be redirected to => google.com
+# Website for Shortening Long URLs
+
+## Demo
+[shorten.rf.gd](https://shorten.rf.gd)
+
+## How to Shorten a URL
+1. Enter the URL
+2. Enter an Alias (Short Code)
+3. Click "Shorten"
+
+**Example:**
+- URL: `Google.com`
+- Alias: `google`
+
+## How to Visit a Shortened URL
+Enter `(Domain Name)/(Alias)` in the search bar.  
+For example: [shorten.rf.gd/google](https://shorten.rf.gd/google)  
+This will redirect you to `google.com`.
